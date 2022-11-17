@@ -1,8 +1,6 @@
 # MarsWSsubmission
 
 # web-scraping-challenge submission part 3
-
-Screenshots of your final application
 link for repo with full activity, flask application code, .py files, and index.html files. https://github.com/ImmaDadTho/web-scraping-challenge
 
 In this activity I build a web application that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page, and using the application creates a database in MongoDB and stores the information that was scraped in a table. There are two parts to this ativity the first part is `scraping` the second part is `MongoDB and Flask application`.
